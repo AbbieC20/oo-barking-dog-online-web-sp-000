@@ -1,13 +1,13 @@
 class Dog
-  def method_name
+  def dog_name
 
   end
 
-  def method_name
+  def provide_dog
 
   end
 
-  def method_name
+  def bark
 
   end
 end
